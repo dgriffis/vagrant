@@ -1,0 +1,7 @@
+{
+  "chef_type": "node",
+  "json_class": "Chef::Node",
+  "name": "playground",
+  "chef_environment": "_default",
+  "run_list": ["recipe[blah]"]
+}

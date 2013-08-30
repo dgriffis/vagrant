@@ -1,0 +1,6 @@
+site :opscode
+
+metadata
+
+cookbook 'blah', path: 'playground/cookbooks/blah'
+cookbook 'blork', path: 'playground/cookbooks/blork'
